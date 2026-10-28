@@ -1,0 +1,4 @@
+- se borró lo que había dicho antes
+- básicamente había dicho que Diego se demoraba en llegar y estoy confundida
+- ya hice copy paste de las cosas que están en la página de mini.css
+- funciona, tengo tipos de textos y headings
